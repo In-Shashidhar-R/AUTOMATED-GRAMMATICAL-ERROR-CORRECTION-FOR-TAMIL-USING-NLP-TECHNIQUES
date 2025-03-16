@@ -1,4 +1,11 @@
 # AUTOMATED-GRAMMATICAL-ERROR-CORRECTION-FOR-TAMIL-USING-NLP-TECHNIQUES
 
-**Abstract**
-The presented research adopts a new approach to identify and correct Tamil grammar errors by utilizing Natural Language Processing methodologies. Artificial intelligence relies heavily on natural language processing (NLP) because it has reshaped different domains, including sentiment analysis and machine translation. This research evaluates performance and computational accuracy, and practical use of two NLP models operating on two different datasets. This research employs modern machine learning methods to analyze NLLB-200 alongside MBart concerning their performance when used on Tamil Grammar Large Dataset along with Error Annotated Tamil Corpus which delivers extensive information about their advantages and weaknesses. The analytical measurements demonstrate the capabilities of various NLP systems to process textual information effectively. The study results help optimize NLP model deployment in real-world applications because they unite theoretical progress with practical needs. Thorough research evaluation helps develop NLP methods better while promoting breakthroughs in automated language comprehension systems. The research recommendations lead to improved methods for selecting NLP models and optimizing datasets which benefit natural language processing as a discipline.
+## Abstract
+
+This research adopts a new approach to identify and correct Tamil grammar errors by utilizing Natural Language Processing (NLP) methodologies. Artificial intelligence heavily relies on NLP, as it has reshaped various domains, including sentiment analysis and machine translation. 
+
+The study evaluates the performance, computational accuracy, and practical use of two NLP models operating on two different datasets. Modern machine learning methods are employed to analyze **NLLB-200** and **MBart** concerning their performance when applied to the **Tamil Grammar Large Dataset** and **Error Annotated Tamil Corpus**. These datasets provide extensive information about the advantages and weaknesses of the models.
+
+Analytical measurements demonstrate the capabilities of various NLP systems in processing textual information effectively. The results help optimize NLP model deployment in real-world applications, bridging theoretical progress with practical needs. A thorough evaluation of the research contributes to the development of improved NLP methods and fosters breakthroughs in automated language comprehension systems.
+
+The recommendations from this research aim to improve the selection of NLP models and dataset optimization, benefiting the broader field of Natural Language Processing (NLP).

@@ -3,7 +3,7 @@
 The **Tamil Error Annotated Corpus** is a comprehensive dataset consisting of 5,023 entries, which include a wide variety of Tamil text containing both grammatical and spelling errors. This dataset is specifically designed to support research in automated grammar correction and spell-checking for the Tamil language.
 
 ### Features
-- **Size**: 27,283 sentences, each containing grammatical defects and spelling errors.
+- **Size**: 5,023 entries, each containing grammatical defects and spelling errors.
 - **Annotations**: Each sentence in the corpus is annotated with both the **incorrect** text and the **corrected** text.
 - **Linguistic Patterns**: The dataset provides insights into common error types, distributions, and linguistic patterns specific to Tamil.
 - **Error Types**: The errors include spelling mistakes, grammatical mistakes, and syntactical issues common in Tamil written text.
